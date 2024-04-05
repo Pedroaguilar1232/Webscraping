@@ -1,0 +1,301 @@
+<div class="col-12">                
+                <!-- Item-->
+                <div class="item d-md-flex justify-content-between">
+                    <div class="px-3 my-3">
+                        
+                        <div class="item-profissional-thumb profile-image align-middle">
+                            <img src="https://busca-exemplo.org.br/assets/img/photo/c265cbaaed503c104c93a3c8f0ed520a.jpg" alt="thumb">
+                        </div>
+                        
+                        <div class="item-profissional-info">    
+                        <div class="d-flex justify-content-between">
+                            <h4 class="item-profissional-title">Lorem Ipsum</h4>
+                            
+                        </div>
+                            <div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Inscrição: </strong><span class="font-weight-medium">MG-CD-xxxxx</span></span></div>
+                            </div>
+                            
+                            <div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Situação: </strong><span class="font-weight-medium">ATIVO</span></span></div>
+                                <div class="py-1 ml-3"><span><strong>Categoria: </strong><span class="font-weight-medium"></span></span></div>
+                                <div class="py-1 ml-3"><span><strong>Tipo Inscrição: </strong><span class="font-weight-medium">PRINCIPAL</span></span></div>
+                            </div><div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Especialidades: </strong><span class="font-weight-medium">Lorem Ipsum</span></span></div>
+                                </div><div class="d-flex justify-content-between">
+                            <div class="py-1"> <span><strong>Data inscrição : </strong><span class="font-weight-medium">05/09/2001</span></span></div>
+                            <div class="py-1 ml-3"> <span><strong>Data registro: </strong><span class="font-weight-medium">29/08/2003</span></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>                
+                <!-- Item-->
+                <div class="item d-md-flex justify-content-between">
+                    <div class="px-3 my-3">
+                        
+                        <div class="item-profissional-thumb profile-image align-middle">
+                            <img src="https://busca-exemplo.org.br/assets/img/no-picture.svg" alt="thumb">
+                        </div>
+                        
+                        <div class="item-profissional-info">    
+                        <div class="d-flex justify-content-between">
+                            <h4 class="item-profissional-title">Lorem Ipsum</h4>
+                            
+                        </div>
+                            <div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Inscrição: </strong><span class="font-weight-medium">MG-CD-xxxxx</span></span></div>
+                            </div>
+                            
+                            <div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Situação: </strong><span class="font-weight-medium">ATIVO</span></span></div>
+                                <div class="py-1 ml-3"><span><strong>Categoria: </strong><span class="font-weight-medium"></span></span></div>
+                                <div class="py-1 ml-3"><span><strong>Tipo Inscrição: </strong><span class="font-weight-medium">PRINCIPAL</span></span></div>
+                            </div><div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Especialidades: </strong><span class="font-weight-medium">Lorem Ipsum</span></span></div>
+                                </div><div class="d-flex justify-content-between">
+                            <div class="py-1"> <span><strong>Data inscrição: </strong><span class="font-weight-medium">03/11/2009</span></span></div>
+                            <div class="py-1 ml-3"> <span><strong>Data registro: </strong><span class="font-weight-medium">03/11/2009</span></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>                
+                <!-- Item-->
+                <div class="item d-md-flex justify-content-between">
+                    <div class="px-3 my-3">
+                        
+                        <div class="item-profissional-thumb profile-image align-middle">
+                            <img src="https://busca-exemplo.org.br/assets/img/photo/44ed56eaaa42a8ceb688b766cc39affa.jpg" alt="thumb">
+                        </div>
+                        
+                        <div class="item-profissional-info">    
+                        <div class="d-flex justify-content-between">
+                            <h4 class="item-profissional-title">Lorem Ipsum</h4>
+                            
+                        </div>
+                            <div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Inscrição: </strong><span class="font-weight-medium">MG-CD-xxxxx</span></span></div>
+                            </div>
+                            
+                            <div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Situação: </strong><span class="font-weight-medium">ATIVO</span></span></div>
+                                <div class="py-1 ml-3"><span><strong>Categoria: </strong><span class="font-weight-medium"></span></span></div>
+                                <div class="py-1 ml-3"><span><strong>Tipo Inscrição: </strong><span class="font-weight-medium">PRINCIPAL</span></span></div>
+                            </div><div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Especialidades: </strong><span class="font-weight-medium">Lorem Ipsum</span></span></div>
+                                </div><div class="d-flex justify-content-between">
+                            <div class="py-1"> <span><strong>Data inscrição: </strong><span class="font-weight-medium">25/05/2000</span></span></div>
+                            <div class="py-1 ml-3"> <span><strong>Data registro: </strong><span class="font-weight-medium">12/05/2000</span></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>                
+                <!-- Item-->
+                <div class="item d-md-flex justify-content-between">
+                    <div class="px-3 my-3">
+                        
+                        <div class="item-profissional-thumb profile-image align-middle">
+                            <img src="https://busca-exemplo.org.br/assets/img/no-picture.svg" alt="thumb">
+                        </div>
+                        
+                        <div class="item-profissional-info">    
+                        <div class="d-flex justify-content-between">
+                            <h4 class="item-profissional-title">Lorem Ipsum</h4>
+                            
+                        </div>
+                            <div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Inscrição: </strong><span class="font-weight-medium">MG-CD-xxxxx</span></span></div>
+                            </div>
+                            
+                            <div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Situação: </strong><span class="font-weight-medium">ATIVO</span></span></div>
+                                <div class="py-1 ml-3"><span><strong>Categoria: </strong><span class="font-weight-medium"></span></span></div>
+                                <div class="py-1 ml-3"><span><strong>Tipo Inscrição: </strong><span class="font-weight-medium">TRANSFERENCIA</span></span></div>
+                            </div><div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Especialidades: </strong><span class="font-weight-medium">Lorem Ipsum</span></span></div>
+                                </div><div class="d-flex justify-content-between">
+                            <div class="py-1"> <span><strong>Data inscrição: </strong><span class="font-weight-medium">13/12/2002</span></span></div>
+                            <div class="py-1 ml-3"> <span><strong>Data registro: </strong><span class="font-weight-medium">25/11/1996</span></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>                
+                <!-- Item-->
+                <div class="item d-md-flex justify-content-between">
+                    <div class="px-3 my-3">
+                        
+                        <div class="item-profissional-thumb profile-image align-middle">
+                            <img src="https://busca-exemplo.org.br/assets/img/photo/203be3ff7612299952caf9bac8bf1537.jpg" alt="thumb">
+                        </div>
+                        
+                        <div class="item-profissional-info">    
+                        <div class="d-flex justify-content-between">
+                            <h4 class="item-profissional-title">Lorem Ipsum</h4>
+                            
+                        </div>
+                            <div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Inscrição: </strong><span class="font-weight-medium">MG-CD-xxxxx</span></span></div>
+                            </div>
+                            
+                            <div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Situação: </strong><span class="font-weight-medium">ATIVO</span></span></div>
+                                <div class="py-1 ml-3"><span><strong>Categoria: </strong><span class="font-weight-medium"></span></span></div>
+                                <div class="py-1 ml-3"><span><strong>Tipo Inscrição: </strong><span class="font-weight-medium">PRINCIPAL</span></span></div>
+                            </div><div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Especialidades: </strong><span class="font-weight-medium">Lorem Ipsum</span></span></div>
+                                </div><div class="d-flex justify-content-between">
+                            <div class="py-1"> <span><strong>Data inscrição: </strong><span class="font-weight-medium">06/02/2003</span></span></div>
+                            <div class="py-1 ml-3"> <span><strong>Data registro: </strong><span class="font-weight-medium">29/03/2004</span></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>                
+                <!-- Item-->
+                <div class="item d-md-flex justify-content-between">
+                    <div class="px-3 my-3">
+                        
+                        <div class="item-profissional-thumb profile-image align-middle">
+                            <img src="https://busca-exemplo.org.br/assets/img/no-picture.svg" alt="thumb">
+                        </div>
+                        
+                        <div class="item-profissional-info">    
+                        <div class="d-flex justify-content-between">
+                            <h4 class="item-profissional-title">Lorem Ipsum</h4>
+                            
+                        </div>
+                            <div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Inscrição: </strong><span class="font-weight-medium">MG-CD-xxxxx</span></span></div>
+                            </div>
+                            
+                            <div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Situação: </strong><span class="font-weight-medium">ATIVO</span></span></div>
+                                <div class="py-1 ml-3"><span><strong>Categoria: </strong><span class="font-weight-medium"></span></span></div>
+                                <div class="py-1 ml-3"><span><strong>Tipo Inscrição: </strong><span class="font-weight-medium">PRINCIPAL</span></span></div>
+                            </div><div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Especialidades: </strong><span class="font-weight-medium">Lorem Ipsum</span></span></div>
+                                </div><div class="d-flex justify-content-between">
+                            <div class="py-1"> <span><strong>Data inscrição: </strong><span class="font-weight-medium">13/09/2006</span></span></div>
+                            <div class="py-1 ml-3"> <span><strong>Data registro: </strong><span class="font-weight-medium">17/12/2008</span></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>                
+                <!-- Item-->
+                <div class="item d-md-flex justify-content-between">
+                    <div class="px-3 my-3">
+                        
+                        <div class="item-profissional-thumb profile-image align-middle">
+                            <img src="https://busca-exemplo.org.br/assets/img/photo/082a9c6d40feb565b4a54d3096f2697c.jpg" alt="thumb">
+                        </div>
+                        
+                        <div class="item-profissional-info">    
+                        <div class="d-flex justify-content-between">
+                            <h4 class="item-profissional-title">Lorem Ipsum</h4>
+                            
+                        </div>
+                            <div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Inscrição: </strong><span class="font-weight-medium">MG-CD-xxxxx</span></span></div>
+                            </div>
+                            
+                            <div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Situação: </strong><span class="font-weight-medium">ATIVO</span></span></div>
+                                <div class="py-1 ml-3"><span><strong>Categoria: </strong><span class="font-weight-medium"></span></span></div>
+                                <div class="py-1 ml-3"><span><strong>Tipo Inscrição: </strong><span class="font-weight-medium">PRINCIPAL</span></span></div>
+                            </div><div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Especialidades: </strong><span class="font-weight-medium">Lorem Ipsum</span></span></div>
+                                </div><div class="d-flex justify-content-between">
+                            <div class="py-1"> <span><strong>Data inscrição: </strong><span class="font-weight-medium">25/08/1995</span></span></div>
+                            <div class="py-1 ml-3"> <span><strong>Data registro: </strong><span class="font-weight-medium">13/07/1995</span></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>                
+                <!-- Item-->
+                <div class="item d-md-flex justify-content-between">
+                    <div class="px-3 my-3">
+                        
+                        <div class="item-profissional-thumb profile-image align-middle">
+                            <img src="https://busca-exemplo.org.br/assets/img/no-picture.svg" alt="thumb">
+                        </div>
+                        
+                        <div class="item-profissional-info">    
+                        <div class="d-flex justify-content-between">
+                            <h4 class="item-profissional-title">Lorem Ipsum</h4>
+                            
+                        </div>
+                            <div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Inscrição: </strong><span class="font-weight-medium">MG-CD-xxxxx</span></span></div>
+                            </div>
+                            
+                            <div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Situação: </strong><span class="font-weight-medium">ATIVO</span></span></div>
+                                <div class="py-1 ml-3"><span><strong>Categoria: </strong><span class="font-weight-medium"></span></span></div>
+                                <div class="py-1 ml-3"><span><strong>Tipo Inscrição: </strong><span class="font-weight-medium">PRINCIPAL</span></span></div>
+                            </div><div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Especialidades: </strong><span class="font-weight-medium">Lorem Ipsum</span></span></div>
+                                </div><div class="d-flex justify-content-between">
+                            <div class="py-1"> <span><strong>Data inscrição: </strong><span class="font-weight-medium">17/01/2007</span></span></div>
+                            <div class="py-1 ml-3"> <span><strong>Data registro: </strong><span class="font-weight-medium">10/10/2008</span></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>                
+                <!-- Item-->
+                <div class="item d-md-flex justify-content-between">
+                    <div class="px-3 my-3">
+                        
+                        <div class="item-profissional-thumb profile-image align-middle">
+                            <img src="https://busca-exemplo.org.br/assets/img/photo/d260a7bc6b54364d44f0a531d4284cbc.jpg" alt="thumb">
+                        </div>
+                        
+                        <div class="item-profissional-info">    
+                        <div class="d-flex justify-content-between">
+                            <h4 class="item-profissional-title">Lorem Ipsum</h4>
+                            
+                        </div>
+                            <div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Inscrição: </strong><span class="font-weight-medium">MG-CD-xxxxx</span></span></div>
+                            </div>
+                            
+                            <div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Situação: </strong><span class="font-weight-medium">ATIVO</span></span></div>
+                                <div class="py-1 ml-3"><span><strong>Categoria: </strong><span class="font-weight-medium"></span></span></div>
+                                <div class="py-1 ml-3"><span><strong>Tipo Inscrição: </strong><span class="font-weight-medium">PRINCIPAL</span></span></div>
+                            </div><div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Especialidades: </strong><span class="font-weight-medium">Lorem Ipsum</span></span></div>
+                                </div><div class="d-flex justify-content-between">
+                            <div class="py-1"> <span><strong>Data inscrição: </strong><span class="font-weight-medium">27/02/2002</span></span></div>
+                            <div class="py-1 ml-3"> <span><strong>Data registro: </strong><span class="font-weight-medium">06/05/2004</span></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>                
+                <!-- Item-->
+                <div class="item d-md-flex justify-content-between">
+                    <div class="px-3 my-3">
+                        
+                        <div class="item-profissional-thumb profile-image align-middle">
+                            <img src="https://busca-exemplo.org.br/assets/img/no-picture.svg" alt="thumb">
+                        </div>
+                        
+                        <div class="item-profissional-info">    
+                        <div class="d-flex justify-content-between">
+                            <h4 class="item-profissional-title">Lorem Ipsum</h4>
+                            
+                        </div>
+                            <div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Inscrição: </strong><span class="font-weight-medium">MG-CD-30035</span></span></div>
+                            </div>
+                            
+                            <div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Situação: </strong><span class="font-weight-medium">ATIVO</span></span></div>
+                                <div class="py-1 ml-3"><span><strong>Categoria: </strong><span class="font-weight-medium"></span></span></div>
+                                <div class="py-1 ml-3"><span><strong>Tipo Inscrição: </strong><span class="font-weight-medium">PRINCIPAL</span></span></div>
+                            </div><div class="d-flex justify-content-between">
+                                <div class="py-1"><span><strong>Especialidades: </strong><span class="font-weight-medium">Lorem Ipsum</span></span></div>
+                                </div><div class="d-flex justify-content-between">
+                            <div class="py-1"> <span><strong>Data inscrição: </strong><span class="font-weight-medium">08/04/2003</span></span></div>
+                            <div class="py-1 ml-3"> <span><strong>Data registro: </strong><span class="font-weight-medium">05/07/2005</span></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div></div>
